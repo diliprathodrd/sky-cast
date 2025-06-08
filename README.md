@@ -4,8 +4,8 @@
 [![React](https://img.shields.io/badge/React-18+-blue?logo=react)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Built%20with-Vite-646CFF?logo=vite)](https://vitejs.dev/)
 [![OpenWeather API](https://img.shields.io/badge/API-OpenWeatherMap-orange)](https://openweathermap.org/api)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/diliprathodrd/skycast/pulls)
-[![GitHub issues](https://img.shields.io/github/issues/diliprathodrd/skycast)](https://github.com/diliprathodrd/skycast/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/diliprathodrd/sky-cast/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/diliprathodrd/skycast)](https://github.com/diliprathodrd/sky-cast/issues)
 
 ---
 
