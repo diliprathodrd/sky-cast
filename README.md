@@ -15,6 +15,10 @@
 
 ---
 
+**🌐 [Deployed Link](https://sky-cast-nine-rose.vercel.app/)**
+
+---
+
 ## 🚀 Features
 
 - 🌎 Search weather by city name
